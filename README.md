@@ -3,6 +3,6 @@ Code for the article "How to Create an Interactive Web Application using Jupyter
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb)
 
-Try the demo here: https://mybinder.org/v2/gh/nghweigeok/jupyter_webapp_demo/HEAD?urlpath=%2Fvoila%2Frender%2FDemo.ipynb
+Try the demo here: https://hub-binder.mybinder.ovh/user/uq-humaira-demo1-bjtz6bie/voila/render/Demo.ipynb?token=pwSdzlJqT0efRBprTLbmmA
 
 Complete blog article and video tutorial: https://blog.finxter.com/how-to-create-an-interactive-web-application-using-jupyter-notebook/
